@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../Calculator"
+		},
+		{
+			"path": "../my-express-server"
+		}
+	],
+	"settings": {}
+}
